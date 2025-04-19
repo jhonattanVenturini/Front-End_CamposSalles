@@ -5,6 +5,7 @@
 // para exibir informações no console do navegador. Personalize o sistema com o seu nome 
 // e implemente a lógica necessária utilizando variáveis e logs no console.
 // Sem usar o chat!
+// final agradecer o sistema, uma mensagem de agradecimento ao sistema e ao professor.
 
 // faça seu codigo aqui:
 
