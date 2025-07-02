@@ -19,8 +19,7 @@
 // 1,75 | 1.75 - NUMERO, INTEIRO, DECIMAL, VALOR NUMERICO
 
 // NUMBER = NUMERO 
-// VARIAVEL = ESPAÇO NA MEMORIA DO COMPUTADOR]
-
+// VARIAVEL = ESPAÇO NA MEMORIA DO COMPUTADOR
 // boolean = verdadeiro ou falso (true ou false)
 // true = verdadeiro
 // false = falso

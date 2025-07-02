@@ -9,3 +9,18 @@
 
 // faça seu codigo aqui:
 
+
+
+let nome = "jhonattan";
+let idade = 22;
+let gostaPraia = true;
+
+console.log('--------------------------------------------------------');
+console.log('Olá', nome , 'tudo bem?', 'Você tem', idade, 'anos.');
+
+console.log('Você gosta de praia?', gostaPraia);    
+console.log('--------------------------------------------------------');
+
+
+console.log();
+
